@@ -17,7 +17,7 @@
 - 라이브러리: [Pytorch](https://pytorch.org/)
 
 - - -
-### 머신러닝 (Machine Learning)
+## [머신러닝 (Machine Learning)]
 
 **이진 분류 (Binary Classification)**
 - 머신러닝에서 여러 개의 종류 (혹은 클래스) 중 하나를 구별해 내는 문제를 Classification
@@ -213,7 +213,7 @@
 - 안정적인 결과와 높은 성능으로 높은 인기
 
 - - -
-### 딥러닝 (Deep Learning)
+## [딥러닝 (Deep Learning)]
 **히스토그램 (Histogram)**
 - 값이 발생한 빈도를 그래프로 표시한 것
 - x축 = 값의 구간
